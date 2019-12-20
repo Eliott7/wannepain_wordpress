@@ -1,0 +1,110 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  color: #333;
+}
+
+.header {
+    background-color : green;
+    margin : none;
+    width : 100%;
+    display : flex;
+    
+}
+
+.menu-menu-principal-container {
+    display: flex;
+    color: white;
+     margin : none;
+    list-style-type: none;
+    justify-content: left;
+    text-align: right;
+    
+    
+}
+
+
+
+.section-1 {
+    background-size : cover ;
+    min-height : 50rem; /* 1rem = 10px donc 50rem = 500px */
+    margin: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.s11 {
+    color : dimgrey;
+    font-size: 250%;
+    margin: none;
+    }
+
+.s12 {
+    font-size : 300%;
+    text-transform:uppercase;
+    
+}
+
+.s13 {
+    font-size : 300%;
+    color: greenyellow;
+    text-transform : uppercase;
+}
+
+.section-2 {
+    background-color:  white;
+    min-height : 50rem; /* 1rem = 10px donc 50rem = 500px */
+    margin: none;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding-top : 25rem;
+}
+
+.section-2  .section_titre {
+    font-size: 300%;
+    text-transform: uppercase;
+}
+
+.section-2 p {
+    font-size: 250%;
+    margin-left: 30rem; margin-right: 30rem;
+    color: gray;
+
+}
+
+.section-2 hr {
+    width : 10%;
+    color : gray;
+    
+}
+
+.entre23 {
+    min-height : 40rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.section-3 {
+    display: flex;
+    
+}
+
+.prog {
+   margin: auto;
+    text-align: center;
+    font-size: 1.5rem; 
+}
+
+
+
+
+
+
+
+
+
